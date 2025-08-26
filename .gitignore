@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+ENV/
+.env
+
+# Flask
+instance/
+.webassets-cache
+*.db
+
+# React Native / JavaScript
+node_modules/
+.expo/
+dist/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+expo-env.d.ts
+.metro-health-check*
+*.tsbuildinfo
+
+# Machine Learning
+*.h5
+*.hdf5
+*.pkl
+*.model
+checkpoints/
+logs/
+test_images/
+test_uploads/
+uploads/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
