@@ -1,5 +1,4 @@
 # SwaPehchaan: AI-Powered Life Certificate Verification System
-## Technical Report for Indian Oil Corporation Limited, Gurugram
 
 **Submitted by:** Development Team  
 **Date:** August 25, 2025  
