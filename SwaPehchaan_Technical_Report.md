@@ -1,6 +1,6 @@
 # SwaPehchaan: AI-Powered Life Certificate Verification System
 
-**Submitted by:** Development Team  
+**Submitted by:** Manas Srivastava
 **Date:** August 25, 2025  
 **Project:** SwaPehchaan - Biometric Life Certificate Verification Platform
 
